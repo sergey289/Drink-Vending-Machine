@@ -1,0 +1,112 @@
+﻿<Window x:Class="Drinks_Vending_Machine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Drinks_Vending_Machine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="612.662" Width="1067.87" Background="#FFDCDADC" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="main_win" RenderTransformOrigin="0.427,0.405">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="154*"/>
+            <ColumnDefinition Width="147*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="341,12,0,0" TextWrapping="Wrap" Text="hot drinks" VerticalAlignment="Top" FontSize="40" TextAlignment="Center" Grid.Column="1" TextDecorations="Underline" FontFamily="Pristina" Grid.ColumnSpan="2">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFF9E66" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="46" Margin="284,6,0,0" VerticalAlignment="Top" Width="50" Source="Resources/label2.png"/>
+        <Label Content="Choose your drink:" HorizontalAlignment="Left" Margin="106,65,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="173" FontSize="15" FontFamily="Segoe Script" Foreground="#FF5F3B3B" FontWeight="Bold"/>
+        <Label Content="Additions" HorizontalAlignment="Left" Margin="338.8,71,0,0" VerticalAlignment="Top" Width="99" FontSize="15" FontFamily="Segoe Script" Foreground="#FF5F3B3B" Grid.Column="1" FontWeight="Bold"/>
+        <StackPanel HorizontalAlignment="Left" Height="6" Margin="-192,303,0,0" VerticalAlignment="Top" Width="450" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFE2C3C3" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.206"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left" Height="6" Margin="5.8,303,0,0" VerticalAlignment="Top" Width="450" RenderTransformOrigin="0.5,0.5" Grid.Column="1">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFE2C3C3" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.206"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <StackPanel x:Name="pan_preper_meth" Grid.Column="1" HorizontalAlignment="Left" Height="285" Margin="245.8,139,0,0" VerticalAlignment="Top" Width="270" Background="Gainsboro" Grid.ColumnSpan="2" x:FieldModifier="public"/>
+        <StackPanel HorizontalAlignment="Left" Height="6" Margin="313.8,303,0,0" VerticalAlignment="Top" Width="450" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Grid.ColumnSpan="2">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFE2C3C3" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.206"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+        <TextBox x:Name="txt_win" Grid.Column="2" HorizontalAlignment="Left" Height="229" Margin="108.2,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="286" HorizontalContentAlignment="Center"  Background="Gainsboro" BorderBrush="Transparent" Foreground="#FF18630C" FontSize="14" />
+        <Button x:Name="btn_preper" Content="Prepere" Grid.Column="1" HorizontalAlignment="Left" Margin="330.8,464,0,0" VerticalAlignment="Top" Width="107" Click="btn_preper_Click" Height="27" FontSize="14" FontFamily="Segoe Print" Foreground="#FF656958"  x:FieldModifier="public" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFA7022" Offset="0.254"/>
+                    <GradientStop Color="#FFEBC7B2" Offset="0.854"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Content="Ingredients and prepare method" HorizontalAlignment="Left" Margin="108.2,72,0,0" VerticalAlignment="Top" Width="275" FontSize="15" FontFamily="Segoe Script" Foreground="#FF5F3B3B" Grid.Column="2" FontWeight="Bold"/>
+        <ScrollViewer x:Name="scrol_ofmenu" HorizontalAlignment="Left" Height="432" Margin="38,98,0,0" VerticalAlignment="Top" Width="344" Grid.ColumnSpan="2">
+            <DockPanel x:Name="main_manu"  Height="497" LastChildFill="False" Width="328" HorizontalAlignment="Left"/>
+        </ScrollViewer>
+        <Button x:Name="btn_add_bev" Content="Add new beverage" HorizontalAlignment="Left" Margin="8,5,0,0" VerticalAlignment="Top" Width="162" BorderBrush="Transparent" FontFamily="Viner Hand ITC" FontSize="15" Grid.ColumnSpan="2" Background="Transparent" Foreground="#FF5F3B3B" Click="btn_add_bev_Click"/>
+        <Button x:Name="btn_remove_bev" Content="Remove  beverage" HorizontalAlignment="Left" Margin="22.8,6,0,0" VerticalAlignment="Top" Width="162" BorderBrush="Transparent" FontFamily="Viner Hand ITC" FontSize="15" Background="Transparent" Foreground="#FF5F3B3B" Grid.Column="1" Click="btn_remove_bev_Click" IsEnabled="False" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

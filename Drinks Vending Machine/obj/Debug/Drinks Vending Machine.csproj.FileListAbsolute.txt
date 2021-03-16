@@ -1,0 +1,163 @@
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\sergey\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Новая папка\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.baml
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.g.cs
+C:\Users\sergey\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.g.cs
+C:\Users\johnn\OneDrive\Desktop\קורס פיתוח תוכנה\Object Oriented and C# in depth\תרגילים\תרגילי הגשה\beverage vending machine\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe.config
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\bin\Debug\Drinks Vending Machine.pdb
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\App.g.cs
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine_MarkupCompile.lref
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition Hot Chocolate.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_Mocaccino.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\MainWindow.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Addition_espresso.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Menu of New beverage.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\usercont_Beverege.baml
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.g.resources
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks_Vending_Machine.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.exe
+C:\Users\johnn\OneDrive\Desktop\Project for GitHub\Drinks Vending Machine\Drinks Vending Machine\obj\Debug\Drinks Vending Machine.pdb
